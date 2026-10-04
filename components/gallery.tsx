@@ -5,7 +5,7 @@ import { ArrowUpRight } from "lucide-react";
 const gallery = [
   { image: "/sungos/90.webp", title: "Namib Coast", place: "Namibe · Iona" },
   { image: "/sungos/62.webp", title: "Kalandula Falls", place: "Malanje" },
-  { image: "/sungos/89.webp", title: "Luanda", place: "Angola" },
+  { image: "/sungos/luanda.jpg", title: "Luanda", place: "Angola" },
   { image: "/sungos/15.webp", title: "Southern Highlands", place: "Lubango" },
   { image: "/sungos/67.webp", title: "People & Culture", place: "Southern Angola" },
   { image: "/sungos/80.webp", title: "Wild Roads", place: "Angola" },
