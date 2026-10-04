@@ -12,7 +12,7 @@ const destinations = [
     size: "large",
   },
   {
-    image: "/sungos/89.webp",
+    image: "/sungos/luanda.jpg",
     location: "Luanda",
     title: "Luanda",
     description: "Descubra a capital e os seus encantos.",

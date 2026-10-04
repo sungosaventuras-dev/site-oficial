@@ -18,7 +18,7 @@ const data = {
     duration: "8 days / 7 nights", style: "Private small-group expedition", group: "Based on 6 guests", price: "USD 3,500",
     route: "Luanda · Lubango · Tundavala · Serra da Leba · Namibe · Iona · Baía dos Tigres", when: "Scheduled departure 13–20 Nov 2027 · or on request", image: "/sungos/15.webp",
     highlights: ["Luanda city tour and historic sites", "Tundavala Gap and Serra da Leba", "Iona National Park wildlife and Welwitschia", "Two nights of desert camping near Baía dos Tigres", "Cristo Rei viewpoint over Lubango"],
-    gallery: ["/sungos/89.webp", "/sungos/15.webp", "/sungos/70.webp", "/sungos/80.webp", "/sungos/90.webp", "/sungos/88.webp"],
+    gallery: ["/sungos/luanda.jpg", "/sungos/15.webp", "/sungos/70.webp", "/sungos/80.webp", "/sungos/90.webp", "/sungos/88.webp"],
   },
   "far-and-wild": {
     code: "SA-10", type: "Expeditions", title: "Far & Wild Private Expedition",

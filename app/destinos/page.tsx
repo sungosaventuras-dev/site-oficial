@@ -14,7 +14,7 @@ const destinations = [
       "Praias, natureza e aventura num dos destinos mais fascinantes de Angola.",
   },
   {
-    image: "/sungos/89.webp",
+    image: "/sungos/luanda.jpg",
     location: "Luanda",
     title: "Luanda",
     description:
