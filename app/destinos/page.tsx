@@ -36,7 +36,7 @@ export default function DestinosPage() {
 
       <section className="relative flex min-h-[580px] items-end overflow-hidden bg-neutral-900">
         <Image
-          src="/sungos/89.webp"
+          src="/sungos/luanda.jpg"
           alt="Destinos em Angola"
           fill
           priority
