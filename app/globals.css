@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+:root { --ink:#171714; --paper:#f4f1e9; --sand:#d9c7a1; --line:#d8d3c8; }
+* { box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body { margin:0; background:var(--paper); color:var(--ink); font-family:Arial,Helvetica,sans-serif; }
+::selection { background:#171714; color:#f4f1e9; }
